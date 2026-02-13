@@ -121,26 +121,4 @@ To digitize and automate the canteen ordering and management process, reducing m
 
 Kartik
 
-🔮 Future Enhancements
 
-Online Payment Integration
-
-Order Tracking System
-
-Admin Dashboard with Analytics
-
-Role-based Security Improvements
-
-Cloud Deployment
-
-
----
-
-# ✅ After Adding README
-
-Run:
-
-```bash
-git add README.md
-git commit -m "Added professional README"
-git push
