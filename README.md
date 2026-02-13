@@ -42,11 +42,12 @@ The system allows Admin, Staff, and Students to manage food items, place orders,
 ## 📂 Project Structure
 
 collegeManagment/
+collegeManagment/
 │
 ├── src/
-│ ├── com.database
-│ ├── com.database.DAOs
-│ ├── com.database.Models
+│ ├── com.database/
+│ ├── com.database.DAOs/
+│ ├── com.database.Models/
 │
 ├── WebContent/
 │ ├── home.jsp
@@ -57,7 +58,7 @@ collegeManagment/
 │ ├── viewQuestion.jsp
 │ ├── styles.css
 │
-├── pom.xml (if Maven)
+├── pom.xml
 └── README.md
 
 
