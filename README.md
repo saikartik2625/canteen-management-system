@@ -40,7 +40,7 @@ The system allows Admin, Staff, and Students to manage food items, place orders,
 ---
 
 ## 📂 Project Structure
-
+```
 collegeManagment/
 collegeManagment/
 │
@@ -61,7 +61,7 @@ collegeManagment/
 ├── pom.xml
 └── README.md
 
-
+```
 ---
 
 ## 🛠️ How to Run the Project
